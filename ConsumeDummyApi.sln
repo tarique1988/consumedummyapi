@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumeDummyApi", "ConsumeDummyApi\ConsumeDummyApi.csproj", "{6C265A76-1A7B-4A2F-86B6-06EF1D0F0ACD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C265A76-1A7B-4A2F-86B6-06EF1D0F0ACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C265A76-1A7B-4A2F-86B6-06EF1D0F0ACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C265A76-1A7B-4A2F-86B6-06EF1D0F0ACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C265A76-1A7B-4A2F-86B6-06EF1D0F0ACD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3233253F-956F-49D1-9ED6-037B12E5C7EF}
+	EndGlobalSection
+EndGlobal
